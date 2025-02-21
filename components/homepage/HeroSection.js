@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import Lottie from 'react-lottie';
-import aiResumeData from '../public/lottie/ai-resume.json'; // Correct path for Lottie file
+import aiResumeData from '/public/lottie/ai-resume.json'; // Correct path for Lottie file
 import MotionButton from '../common/MotionButton';
 import { useInView } from 'framer-motion';
 
